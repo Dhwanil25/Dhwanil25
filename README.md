@@ -102,4 +102,4 @@ Winner – Google Developer Startup Day Pitch Competition (Onboard AI)
 ## 🌎 Connect
 
 Virginia, United States of America  
-LinkedIn: [[Add Link]](https://www.linkedin.com/in/dhwanil-mori/)  
+LinkedIn: [[Dhwanil Mori]](https://www.linkedin.com/in/dhwanil-mori/)  
