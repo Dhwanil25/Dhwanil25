@@ -1,5 +1,7 @@
   # Dhwanil Mori
 
+  ![Profile Views](https://komarev.com/ghpvc/?username=Dhwanil25&color=orange&style=for-the-badge&label=Profile%20Views)    
+  
   **Applied AI Systems Engineer · Multi-Agent LLM Research · Decision Intelligence**
   MS Data Science @ George Washington University — Expected May 2026
 
