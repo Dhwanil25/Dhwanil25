@@ -58,4 +58,3 @@
 
   📍 Virginia, United States
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dhwanil%20Mori-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhwanil-mori/)
-  [![GitHub](https://img.shields.io/badge/GitHub-Dhwanil25-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Dhwanil25)
