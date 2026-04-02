@@ -53,20 +53,20 @@ The question I keep asking: *how do autonomous agents break, and how do we know 
 ---
 
 <details>
-<summary><code>$ ps aux --research</code></summary>
+<summary><code>$ git log --research --oneline</code></summary>
 <br>
 
 ```
-PID   PROCESS                              LOAD    STATE
-───   ───────────────────────────────────  ──────  ──────────
-001   multi_agent_coordination_failure     HIGH    running
-002   el_farol_environment_sim             MED     running
-003   llm_guardrails_evaluation            MED     running
-004   hybrid_retrieval_bm25_vector         LOW     sleeping
-005   hpc_slurm_inference_pipeline         LOW     idle
+f9a3c2e  proved    →  coordination emerges in LLM agents without explicit messaging
+b7d1e80  found     →  cascade failures spike when 3+ agents share a dependency chain
+3c6f912  reproduced→  silent hallucination under context overflow — no error thrown
+a2b8d47  observed  →  role ambiguity in system prompts is the #1 cause of agent drift
+9e4c031  confirmed →  distribution shift breaks convergence even in stable agent fleets
+7f5a1b3  open      →  why do agents over-coordinate after a single failure event?
 ```
 
-Studying what happens when LLM agents must coordinate without communication. Emergent behaviour in constrained environments reveals failure modes you won't find in evals.
+> running experiments in El Farol-style environments — agents coordinate without communication.
+> emergent behaviour is where the real failure modes hide.
 
 </details>
 
