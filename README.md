@@ -20,29 +20,65 @@
 
 ---
 
-### `$ whoami`
-
-```ts
-const dhwanil = {
-  role:     "AI Systems Researcher · Founder @ RAIN",
-  focus:    ["multi-agent LLM coordination", "decision intelligence", "HPC inference"],
-  research: "failure modes in LLM agent systems via El Farol-style environments",
-  school:   "MS Data Science · George Washington University · May 2026",
-  building: "Agentis — open-source multi-agent AI platform (12 LLM providers)",
-  belief:   "AI systems fail in subtle ways. Design for failure first.",
-}
 ```
+╔══════════════════════════════════════════════════════════════╗
+║  SYSTEM INIT · dhwanil_mori · AI SYSTEMS RESEARCHER         ║
+╠══════════════════════════════════════════════════════════════╣
+║  mission    →  build AI that coordinates, not just responds  ║
+║  research   →  failure modes in multi-agent LLM systems      ║
+║  method     →  design for breakdown before you ship          ║
+║  school     →  MS Data Science · GWU · May 2026              ║
+║  status     →  [ ████████████████████░░░░ ] building         ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+> Most people prompt a model. I coordinate a fleet.
+> Reliability, failure taxonomy, and decision-aware agents — that's the work.
 
 ---
 
-### `$ ls projects/`
+<table>
+<tr>
+<td width="50%" valign="top">
 
-| Project | Description | Stack |
-|---|---|---|
-| [**Agentis**](https://github.com/Dhwanil25/Agentis) | Deploy coordinated agent teams across 12 LLM providers — watch them think live | TS · React · Rust |
-| **RAIN** | Retail decision intelligence — inventory + supplier risk via hybrid retrieval | Python · LLMs |
-| **Multi-Agent Research** | Coordination failure taxonomy in El Farol environments | Python · RL |
-| **HPC AI Sandbox** | GPU-accelerated model orchestration on Slurm | CUDA · Python |
+**`▸ Agentis`** &nbsp; [`→ open source`](https://github.com/Dhwanil25/Agentis)
+
+Deploy a coordinated team of AI agents across **12 LLM providers** simultaneously. Each agent has a role, a model, and a job. Watch them think and synthesize — live.
+
+`TypeScript` `React` `Rust` `Vite`
+
+</td>
+<td width="50%" valign="top">
+
+**`▸ RAIN`** &nbsp; [`→ rainlab.ai`](https://rainlab.ai)
+
+Decision intelligence for retail — inventory management and supplier risk scoring using hybrid retrieval and structured LLM reasoning on real operational data.
+
+`Python` `LLMs` `BM25` `Vector Search`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**`▸ Multi-Agent Coordination`**
+
+Research into why LLM agent systems fail. Using El Farol-style environments where agents must coordinate without communication — emergent behaviour reveals the breakdown points.
+
+`Python` `RL` `Game Theory`
+
+</td>
+<td width="50%" valign="top">
+
+**`▸ HPC AI Sandbox`**
+
+GPU-accelerated model orchestration on university HPC infrastructure. Slurm-managed parallel inference, secure pipelines, and reproducible evaluation at scale.
+
+`CUDA` `Slurm` `Python` `Docker`
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -53,19 +89,6 @@ const dhwanil = {
 </p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=postgres,redis,docker,linux,git,github" />
-</p>
-
----
-
-### `$ gh stats`
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dhwanil25&theme=transparent&show_icons=true&hide_border=true&title_color=a78bfa&icon_color=a78bfa&text_color=e2e8f0&count_private=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhwanil25&theme=transparent&hide_border=true&title_color=a78bfa&text_color=e2e8f0&layout=compact&langs_count=6" width="38%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhwanil25&theme=react-dark&hide_border=true&area=true&color=a78bfa&line=7c3aed&point=ffffff&custom_title=contribution+activity" width="96%"/>
 </p>
 
 ---
