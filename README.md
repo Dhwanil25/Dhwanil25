@@ -20,20 +20,73 @@
 
 ---
 
+<!-- ── INTERACTIVE TERMINAL ── click each command to run it -->
+
+<details>
+<summary><code>$ identify dhwanil_mori</code></summary>
+<br>
+
 ```
-╔══════════════════════════════════════════════════════════════╗
-║  SYSTEM INIT · dhwanil_mori · AI SYSTEMS RESEARCHER         ║
-╠══════════════════════════════════════════════════════════════╣
-║  mission    →  build AI that coordinates, not just responds  ║
-║  research   →  failure modes in multi-agent LLM systems      ║
-║  method     →  design for breakdown before you ship          ║
-║  school     →  MS Data Science · GWU · May 2026              ║
-║  status     →  [ ████████████████████░░░░ ] building         ║
-╚══════════════════════════════════════════════════════════════╝
+NAME     Dhwanil Mori
+ROLE     AI Systems Researcher · Founder @ RAIN
+SCHOOL   MS Data Science · George Washington University · May 2026
+BASE     Virginia, USA
+STATUS   [ ████████████████████░░░░ ]  building
 ```
 
-> Most people prompt a model. I coordinate a fleet.
-> Reliability, failure taxonomy, and decision-aware agents — that's the work.
+</details>
+
+---
+
+<details>
+<summary><code>$ cat mission.txt</code></summary>
+<br>
+
+> Most people ship a prompt. I ship a fleet.
+
+I build AI systems that **coordinate** — not just respond. My work sits at the intersection of multi-agent architecture, failure taxonomy, and decision-aware reasoning. If a system can't fail gracefully, it isn't production-ready.
+
+The question I keep asking: *how do autonomous agents break, and how do we know before it matters?*
+
+</details>
+
+---
+
+<details>
+<summary><code>$ ps aux --research</code></summary>
+<br>
+
+```
+PID   PROCESS                              LOAD    STATE
+───   ───────────────────────────────────  ──────  ──────────
+001   multi_agent_coordination_failure     HIGH    running
+002   el_farol_environment_sim             MED     running
+003   llm_guardrails_evaluation            MED     running
+004   hybrid_retrieval_bm25_vector         LOW     sleeping
+005   hpc_slurm_inference_pipeline         LOW     idle
+```
+
+Studying what happens when LLM agents must coordinate without communication. Emergent behaviour in constrained environments reveals failure modes you won't find in evals.
+
+</details>
+
+---
+
+<details>
+<summary><code>$ curl dhwanil.ai/beliefs</code></summary>
+<br>
+
+```json
+{
+  "on_ai_systems":  "Design for failure first. Most breakdowns are predictable.",
+  "on_agents":      "A single model is a tool. A coordinated fleet is a system.",
+  "on_evals":       "If you can't measure it breaking, you can't trust it working.",
+  "on_open_source": "The best way to learn how something fails is to let everyone use it.",
+  "on_research":    "Theory without deployment is incomplete. Ship the proof."
+}
+```
+
+</details>
 
 ---
 
